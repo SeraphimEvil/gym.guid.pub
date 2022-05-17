@@ -3,9 +3,13 @@
     {
       "guid": "111-222-333-444",
       "user_guid": 1,
-      "name": "Тренер №1",
+      "name": "Данил Шипенко",
+      "photo": "danil_s.jpeg",
       "rating": 5.0,
-      "workplace": "King Fit. Краснодар",
+      "workplace": {
+        "title": "King Fit",
+        "city": "Краснодар"
+      },
       "phone": "8-800-222-35-35",
       "specs": [
         "пытки",
@@ -17,8 +21,12 @@
       "guid": "aaaa-bbbb-ccc",
       "user_guid": 2,
       "name": "Диванный эксперт",
+      "photo": "",
       "rating": 1.6,
-      "workplace": "Диванный",
+      "workplace": {
+        "title": "King Fit",
+        "city": "Краснодар"
+      },
       "phone": "8-800-123-45-67",
       "specs": [
         "набор лишней массы",
