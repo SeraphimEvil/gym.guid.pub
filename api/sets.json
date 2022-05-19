@@ -1,0 +1,71 @@
+{
+  "items": {
+    "111-222-333-444": [
+      {
+        "gender": "male",
+        "guid": "set-1",
+        "title": "Тренировочка на выхи",
+        "club": {
+          "title": "King Fit",
+          "city": "Краснодар"
+        },
+        "sets": [
+          {
+            "title": "Пресс качат",
+            "guid": "press-kachat",
+            "description": "Лежиш и качат"
+          },
+          {
+            "title": "Турник",
+            "guid": "tyrnik",
+            "description": "Висиш и качат"
+          },
+          {
+            "title": "Анжумания",
+            "guid": "anzymania",
+            "description": "Упор лежа и качат"
+          },
+          {
+            "title": "Беги",
+            "guid": "begit",
+            "description": "Упор лежа и качат"
+          }
+        ]
+      },
+      {
+        "gender": "female",
+        "guid": "set-2",
+        "title": "Тренировочка на выхи",
+        "club": {
+          "title": "King Fit",
+          "city": "Краснодар"
+        },
+        "sets": [
+          {
+            "title": "Пресс качат",
+            "guid": "press-kachat",
+            "description": "Лежиш и качат"
+          },
+          {
+            "title": "Турник",
+            "guid": "tyrnik",
+            "description": "Висиш и качат"
+          },
+          {
+            "title": "Анжумания",
+            "guid": "anzymania",
+            "description": "Упор лежа и качат"
+          },
+          {
+            "title": "Беги",
+            "guid": "begit",
+            "description": "Упор лежа и качат"
+          }
+        ]
+      }
+    ],
+    "aaaa-bbbb-ccc": [
+
+    ]
+  }
+}
