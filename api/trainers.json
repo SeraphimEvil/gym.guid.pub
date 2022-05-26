@@ -18,6 +18,24 @@
       ]
     },
     {
+      "guid": "111-222-333-444",
+      "user_guid": 1,
+      "name": "Dungeon mASSter",
+      "photo": "billy.jpeg",
+      "rating": 5.0,
+      "workplace": {
+        "title": "Boss of the Gym",
+        "city": ""
+      },
+      "phone": "8-800-222-35-35",
+      "specs": [
+        "fisting",
+        "slaves",
+        "oh shit im sorry",
+        "cum"
+      ]
+    },
+    {
       "guid": "aaaa-bbbb-ccc",
       "user_guid": 2,
       "name": "Диванный эксперт",
