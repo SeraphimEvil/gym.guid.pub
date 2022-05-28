@@ -18,8 +18,8 @@
       ]
     },
     {
-      "guid": "111-222-333-444",
-      "user_guid": 1,
+      "guid": "222-333-444-555",
+      "user_guid": 2,
       "name": "Dungeon mASSter",
       "photo": "billy.jpeg",
       "rating": 5.0,
