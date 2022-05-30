@@ -1,142 +1,202 @@
 {
   "items": [
-      {
-        "trainerGuid": "111-222-333-444",
-        "gender": "male",
-        "guid": "set-1",
-        "title": "Тренировка на выходной",
-        "time": "55",
-        "club": {
-          "title": "King Fit",
-          "city": "Краснодар"
-        },
-        "sets": [
-          {
-            "title": "Подтягивание гравитрон, широкий хват",
-            "repeat": 4,
-            "count": 15,
-            "weight": 0,
-            "description": "Описание"
-          },
-          {
-            "title": "Вертикальная тяга",
-            "repeat": 4,
-            "count": 20,
-            "weight": 0,
-            "description": "Описание"
-          },
-          {
-            "title": "Становая тяга в тренажере",
-            "repeat": 5,
-            "count": 12,
-            "weight": 0,
-            "description": "Описание"
-          },
-          {
-            "title": "Гипеэкстензия",
-            "repeat": 4,
-            "count": 15,
-            "weight": 0,
-            "description": "Описание"
-          },
-          {
-            "title": "Горизонтальная тяга",
-            "repeat": 4,
-            "count": 20,
-            "weight": 0,
-            "description": "Описание"
-          },
-          {
-            "title": "Пуловер",
-            "repeat": 4,
-            "count": 20,
-            "weight": 0,
-            "description": "Описание"
-          },
-          {
-            "title": "Тяга штанги к низу груди",
-            "repeat": 4,
-            "count": 20,
-            "weight": 0,
-            "description": "Описание"
-          },
-          {
-            "title": "Махи гантель через стороны",
-            "repeat": 4,
-            "count": 20,
-            "weight": 0,
-            "description": "Описание"
-          },
-          {
-            "title": "Пресс с диском",
-            "repeat": 4,
-            "count": 20,
-            "weight": 0,
-            "description": "Описание"
-          }
-        ]
+    {
+      "trainerGuid": "111-222-333-444",
+      "gender": "male",
+      "guid": "set-1",
+      "title": "Тренировка на выходной",
+      "time": "55",
+      "club": {
+        "title": "King Fit",
+        "city": "Краснодар"
       },
-      {
-        "trainerGuid": "111-222-333-444",
-        "gender": "female",
-        "guid": "set-2",
-        "title": "Тренировка на выходной",
-        "time": "65",
-        "club": {
-          "title": "King Fit",
-          "city": "Краснодар"
+      "sets": [
+        {
+          "title": "Подтягивание гравитрон, широкий хват",
+          "repeat": 4,
+          "count": 15,
+          "weight": 0,
+          "description": "Описание"
         },
-        "sets": [
-          {
-            "title": "Разведение ног в тренажере",
-            "repeat": 4,
-            "count": 20,
-            "weight": 0,
-            "description": "Наклон вперёд"
-          },
-          {
-            "title": "Перекрёстный жим ногой в гравитроне",
-            "repeat": 4,
-            "count": 20,
-            "weight": 0,
-            "description": "Описание"
-          },
-          {
-            "title": "Плие присед",
-            "repeat": 5,
-            "count": 30,
-            "weight": 0,
-            "description": "Описание"
-          },
-          {
-            "title": "Ягодичный мост",
-            "repeat": 4,
-            "count": 20,
-            "weight": 0,
-            "description": "Описание"
-          },
-          {
-            "title": "Болгарские выпады",
-            "repeat": 4,
-            "count": 15,
-            "weight": 0,
-            "description": "На ногу"
-          },
-          {
-            "title": "Ягодичная экстензия",
-            "repeat": 4,
-            "count": 20,
-            "weight": 0,
-            "description": "Описание"
-          },
-          {
-            "title": "Пресс с диском",
-            "repeat": 4,
-            "count": 20,
-            "weight": 0,
-            "description": "Описание"
-          }
-        ]
-      }
-    ]
+        {
+          "title": "Вертикальная тяга",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Становая тяга в тренажере",
+          "repeat": 5,
+          "count": 12,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Гиперэкстензия",
+          "repeat": 4,
+          "count": 15,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Горизонтальная тяга",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Пуловер",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Тяга штанги к низу груди",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Махи гантель через стороны",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Пресс с диском",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        }
+      ]
+    },
+    {
+      "trainerGuid": "111-222-333-444",
+      "gender": "female",
+      "guid": "set-2",
+      "title": "Тренировка на выходной",
+      "time": "65",
+      "club": {
+        "title": "King Fit",
+        "city": "Краснодар"
+      },
+      "sets": [
+        {
+          "title": "Разведение ног в тренажере",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Наклон вперёд"
+        },
+        {
+          "title": "Перекрёстный жим ногой в гравитроне",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Плие присед",
+          "repeat": 5,
+          "count": 30,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Ягодичный мост",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Болгарские выпады",
+          "repeat": 4,
+          "count": 15,
+          "weight": 0,
+          "description": "На ногу"
+        },
+        {
+          "title": "Ягодичная экстензия",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Пресс с диском",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        }
+      ]
+    },
+    {
+      "trainerGuid": "111-222-333-444",
+      "gender": "female",
+      "guid": "set-3",
+      "title": "Упражнения на дом",
+      "time": "20",
+      "club": {
+      },
+      "sets": [
+        {
+          "title": "Разведение ног в тренажере",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Наклон вперёд"
+        },
+        {
+          "title": "Перекрёстный жим ногой в гравитроне",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Плие присед",
+          "repeat": 5,
+          "count": 30,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Ягодичный мост",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Болгарские выпады",
+          "repeat": 4,
+          "count": 15,
+          "weight": 0,
+          "description": "На ногу"
+        },
+        {
+          "title": "Ягодичная экстензия",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Пресс с диском",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        }
+      ]
+    }
+  ]
 }
