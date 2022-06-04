@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "guid": "city-1",
+      "title": "Краснодар",
+      "declension": "Краснодаре"
+    },
+    {
+      "guid": "city-2",
+      "title": "Москва",
+      "declension": "Москве"
+    }
+  ]
+}
