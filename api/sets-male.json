@@ -6,11 +6,10 @@
       "guid": "set-1",
       "title": "Тренировка на выходной",
       "time": "55",
-      "zones": ["спина","грудь","бицепс","трицепс","молеулярное расширение"],
+      "zones": ["спина","грудь","бицепс","трицепс","молекулярное расширение"],
       "club": {
         "photo": "kingfitkp.jpeg",
         "title": "King Fit",
-        "street": "Красных партизан",
         "city": "Краснодар"
       },
       "sets": [
@@ -76,129 +75,6 @@
           "count": 20,
           "weight": 0,
           "description": "Стоя спина ровная, лопатки сведены. Выполняем махи через стороны, руками согнутыми в локтевом суставе (10*), гантели поднимаем до уровня груди, в конечной фазе проворот ладони к наружи."
-        },
-        {
-          "title": "Пресс с диском",
-          "repeat": 4,
-          "count": 20,
-          "weight": 0,
-          "description": "Описание"
-        }
-      ]
-    },
-    {
-      "trainerGuid": "111-222-333-444",
-      "gender": "female",
-      "guid": "set-2",
-      "title": "Тренировка на выходной",
-      "time": "65",
-      "club": {
-        "photo": "kingfitkp.jpeg",
-        "title": "King Fit",
-        "city": "Краснодар"
-      },
-      "sets": [
-        {
-          "title": "Разведение ног в тренажере",
-          "repeat": 4,
-          "count": 20,
-          "weight": 0,
-          "description": "Наклон вперёд"
-        },
-        {
-          "title": "Перекрёстный жим ногой в гравитроне",
-          "repeat": 4,
-          "count": 20,
-          "weight": 0,
-          "description": "Описание"
-        },
-        {
-          "title": "Плие присед",
-          "repeat": 5,
-          "count": 30,
-          "weight": 0,
-          "description": "Описание"
-        },
-        {
-          "title": "Ягодичный мост",
-          "repeat": 4,
-          "count": 20,
-          "weight": 0,
-          "description": "Описание"
-        },
-        {
-          "title": "Болгарские выпады",
-          "repeat": 4,
-          "count": 15,
-          "weight": 0,
-          "description": "На ногу"
-        },
-        {
-          "title": "Ягодичная экстензия",
-          "repeat": 4,
-          "count": 20,
-          "weight": 0,
-          "description": "Описание"
-        },
-        {
-          "title": "Пресс с диском",
-          "repeat": 4,
-          "count": 20,
-          "weight": 0,
-          "description": "Описание"
-        }
-      ]
-    },
-    {
-      "trainerGuid": "111-222-333-444",
-      "gender": "female",
-      "guid": "set-3",
-      "title": "Упражнения на дом",
-      "time": "20",
-      "club": {
-      },
-      "sets": [
-        {
-          "title": "Разведение ног в тренажере",
-          "repeat": 4,
-          "count": 20,
-          "weight": 0,
-          "description": "Наклон вперёд"
-        },
-        {
-          "title": "Перекрёстный жим ногой в гравитроне",
-          "repeat": 4,
-          "count": 20,
-          "weight": 0,
-          "description": "Описание"
-        },
-        {
-          "title": "Плие присед",
-          "repeat": 5,
-          "count": 30,
-          "weight": 0,
-          "description": "Описание"
-        },
-        {
-          "title": "Ягодичный мост",
-          "repeat": 4,
-          "count": 20,
-          "weight": 0,
-          "description": "Описание"
-        },
-        {
-          "title": "Болгарские выпады",
-          "repeat": 4,
-          "count": 15,
-          "weight": 0,
-          "description": "На ногу"
-        },
-        {
-          "title": "Ягодичная экстензия",
-          "repeat": 4,
-          "count": 20,
-          "weight": 0,
-          "description": "Описание"
         },
         {
           "title": "Пресс с диском",

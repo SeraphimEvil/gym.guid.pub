@@ -1,0 +1,128 @@
+{
+  "items": [
+    {
+      "trainerGuid": "111-222-333-444",
+      "gender": "female",
+      "guid": "set-2",
+      "title": "Тренировка на выходной",
+      "time": "65",
+      "zones": ["попа"],
+      "club": {
+        "photo": "kingfitkp.jpeg",
+        "title": "King Fit",
+        "city": "Краснодар"
+      },
+      "sets": [
+        {
+          "title": "Разведение ног в тренажере",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Наклон вперёд"
+        },
+        {
+          "title": "Перекрёстный жим ногой в гравитроне",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Плие присед",
+          "repeat": 5,
+          "count": 30,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Ягодичный мост",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Болгарские выпады",
+          "repeat": 4,
+          "count": 15,
+          "weight": 0,
+          "description": "На ногу"
+        },
+        {
+          "title": "Ягодичная экстензия",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Пресс с диском",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        }
+      ]
+    },
+    {
+      "trainerGuid": "111-222-333-444",
+      "gender": "female",
+      "guid": "set-3",
+      "title": "Упражнения на дом",
+      "time": "20",
+      "club": {
+      },
+      "sets": [
+        {
+          "title": "Разведение ног в тренажере",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Наклон вперёд"
+        },
+        {
+          "title": "Перекрёстный жим ногой в гравитроне",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Плие присед",
+          "repeat": 5,
+          "count": 30,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Ягодичный мост",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Болгарские выпады",
+          "repeat": 4,
+          "count": 15,
+          "weight": 0,
+          "description": "На ногу"
+        },
+        {
+          "title": "Ягодичная экстензия",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        },
+        {
+          "title": "Пресс с диском",
+          "repeat": 4,
+          "count": 20,
+          "weight": 0,
+          "description": "Описание"
+        }
+      ]
+    }
+  ]
+}
